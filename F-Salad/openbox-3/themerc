@@ -8,11 +8,12 @@ menu.items.bg.color: #2D2D2D
 menu.items.bg.border.color: #000000
 menu.items.disabled.text.color: #3F3F3F
 menu.items.text.color: #CDCDCD
-menu.separator.color: #2F2F2F
-menu.title.bg: Solid Flat
+menu.separator.color: #4D4D4D
+menu.title.bg: Solid Raised
 menu.title.bg.color: #2D2D2D
-menu.title.bg.border.color: #2D2D2D
-menu.title.text.color: #F8F8F8
+menu.title.bg.border.color: #2F2F2F
+menu.title.text.color: #F4F4F4
+menu.overlap: -2
 osd.bg: Solid Raised
 osd.bg.color: #2D2D2D
 osd.bg.border.color: #000000
@@ -39,10 +40,10 @@ window.active.button.unpressed.image.color: #CDCDCD
 window.active.client.color: #1F1F1F
 window.active.label.bg: ParentRelative Flat
 window.active.label.text.color: #CDCDCD
-window.active.title.bg: Solid Raised
+window.active.title.bg: Solid Flat
 window.active.title.bg.color: #2D2D2D
 window.active.title.bg.border.color: #000000
-window.active.title.separator.color: #3D3D3D
+window.active.title.separator.color: #2D2D2D
 window.client.padding.height: 0
 window.client.padding.width: 1
 window.handle.width: 0
@@ -66,6 +67,6 @@ window.inactive.client.color: #1F1F1F
 window.inactive.label.bg: ParentRelative Flat
 window.inactive.label.text.color: #7B7B7B
 window.inactive.title.bg: Solid Flat
-window.inactive.title.bg.color: #2A2A2A
+window.inactive.title.bg.color: #2D2D2D
 window.inactive.title.bg.border.color: #000000
-window.inactive.title.separator.color: #404040
+window.inactive.title.separator.color: #2D2D2D
