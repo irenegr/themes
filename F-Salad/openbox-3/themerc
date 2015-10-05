@@ -26,7 +26,7 @@ osd.label.text.color: #CDCDCD
 
 window.active.border.color: #333333
 window.active.button.disabled.image.color: #3F3F3F
-window.active.button.disabled.bg: #2D2D2D
+window.active.button.disabled.bg: ParentRelative Flat
 window.active.button.hover.bg: Solid Flat
 window.active.button.hover.bg.color: #2D2D2D
 window.active.button.hover.image.color: #CF324E
@@ -35,7 +35,7 @@ window.active.button.pressed.bg.color: #2F2F2F
 window.active.button.pressed.image.color: #CF324E
 window.active.button.toggled.hover.bg: Solid Flat
 window.active.button.toggled.hover.bg.color: #2D2D2D
-window.active.button.toggled.image.color: #CDCDCD
+window.active.button.toggled.image.color: #3F3F3F
 window.active.button.toggled.unpressed.bg: ParentRelative Flat
 window.active.button.toggled.unpressed.bg.border.color: #2D2D2D
 window.active.button.unpressed.bg: ParentRelative Flat
@@ -53,7 +53,7 @@ window.client.padding.width: 1
 window.handle.width: 0
 
 window.inactive.border.color: #333333
-window.inactive.button.disabled.bg: #2D2D2D
+window.inactive.button.disabled.bg: ParentRelative Flat
 window.inactive.button.disabled.image.color: #3F3F3F
 window.inactive.button.hover.bg: Solid Flat
 window.inactive.button.hover.bg.color: #2D2D2D
