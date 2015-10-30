@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=New Hope
+Comment=A numix modification
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=New Hope
