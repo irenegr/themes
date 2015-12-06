@@ -58,6 +58,7 @@ window.inactive.handle.bg: flat solid
 window.inactive.handle.bg.color: #151515
 window.inactive.grip.bg: parentrelative
 window.inactive.grip.bg.color: #151515
+
 !! window buttons
 window.active.button.*.bg: parentrelative
 window.active.button.*.bg.color:#151515
