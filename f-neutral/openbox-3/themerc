@@ -61,17 +61,21 @@ window.inactive.grip.bg.color: #151515
 !! window buttons
 window.active.button.unpressed.bg: parentrelative
 window.active.button.unpressed.bg.color:#151515
-window.active.button.*.image.color:#717171
+window.active.button.unpressed.image.color:#717171
+window.active.button.hover.bg: parentrelative
+window.active.button.hover.bg.color: #151515
+window.active.button.hover.image.color:#a2a2a2
 window.active.button.pressed.bg: parentrelative
 window.active.button.pressed.bg.color: #151515
-window.active.button.pressed.image.color:#d4f011
+window.active.button.pressed.image.color:#a2a2a2
+window.active.button.disabled.bg: Flat
+window.active.button.disabled.bg.color: #151515
+window.active.button.disabled.image.color: #454545
+
 window.inactive.button.*.bg: flat
 window.inactive.button.*.bg.color:#151515
 window.inactive.button.*.image.color:#454545
-window.inactive.button.disabled.bg: Flat
-window.inactive.button.disabled.bg.color: #151515
-window.inactive.button.disabled.bg.border.color: #151515
-window.inactive.button.disabled.image.color: #454545
+
 
 !! misc settings
 border.color: #2f2f2f
