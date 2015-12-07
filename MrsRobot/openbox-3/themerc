@@ -1,0 +1,91 @@
+!! ob by fog
+
+
+!! -------------------------------------------------------
+
+!! Menu settings
+
+menu.title.bg: flat solid
+menu.title.bg.color: #303030
+menu.title.text.color: #BC3333
+menu.title.text.justify: right
+
+menu.separator.color: #303030
+
+menu.items.bg: flat solid
+menu.items.bg.color: #303030
+menu.items.text.color: #999999
+menu.items.disabled.text.color: #666666
+
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #303030
+menu.items.active.bg.colorTo:#525252
+menu.items.active.text.color: #BC3333
+menu.bullet.selected.image.color: #BC3333
+
+!! focused window settings
+
+window.*.title.bg: flat solid
+window.active.title.bg.color: #303030
+
+window.*.handle.bg: flat solid
+window.*.handle.bg.color: #303030
+
+window.active.title.separator.color: #303030
+
+window.*.grip.bg: flat solid
+window.*.grip.bg.color: #303030
+
+window.active.label.bg: parentrelative
+window.active.label.text.color: #999999
+
+window.*.button.*.bg: parentrelative
+window.active.button.disabled.image.color: #666666
+
+window.active.button.unpressed.image.color: #999999
+window.active.button.pressed.image.color: #D2D2D2
+window.active.button.toggled.unpressed.image.color: #999999
+window.active.button.toggled.pressed.image.color: #D2D2D2
+window.active.button.toggled.hover.image.color: #BC3333
+window.active.button.hover.image.color: #BC3333
+
+
+
+
+!! unfocused window settings
+
+window.inactive.title.bg.color: #303030
+window.inactive.title.separator.color: #303030
+
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #666666
+
+window.inactive.button.*.image.color: #666666
+
+!! Global width settings
+border.Width: 1
+padding.width: 1
+padding.color: #303030
+window.handle.width: 0
+window.client.padding.width: 0
+window.client.padding.height: 0
+window.*.client.color: #303030
+menu.overlap.x: -6
+
+!! Miscellaneous settings
+border.color: #434343
+
+!! OSD
+osd.bg: flat gradient vertical
+osd.bg.color: #303030
+osd.bg.colorTo: #303030
+osd.label.bg: parentrelative
+osd.hilight.bg: flat solid
+osd.hilight.bg.color: #666666
+osd.unhilight.bg: flat solid
+osd.unhilight.bg.color: #666666
+osd.label.text.color: #999999
+osd.label.text.font: Fixed
+
+!! font me!
+window.label.text.justify: left
