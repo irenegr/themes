@@ -107,7 +107,7 @@ menu.title.text.justify: center
 
 menu.items.bg: Flat Solid
 menu.items.bg.color: #191919
-menu.items.text.color: #9C9C9C
+menu.items.text.color: #5c5c5c
 menu.items.disabled.text.color: #c0c0c0
 
 menu.items.active.bg: flat diagonal gradient
