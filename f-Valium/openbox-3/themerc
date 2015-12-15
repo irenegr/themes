@@ -1,0 +1,136 @@
+# MetroSensual
+
+# Window geometry
+padding.width: 0
+border.width: 3
+window.client.padding.width: 0
+window.client.padding.height: 0
+window.handle.width: 0
+
+#Menu geometry
+menu.border.width: 5
+menu.overlap: -11
+
+# Border colors
+window.active.border.color: #191919
+window.inactive.border.color: #191919
+menu.border.color: #191919
+window.active.client.color: #191919
+window.inactive.client.color: #191919
+
+# Text shadows
+window.active.label.text.font: shadow=n
+window.inactive.label.text.font: shadow=n
+menu.items.font: shadow=n
+menu.title.text.font: shadow=n
+
+# Window title justification
+window.label.text.justify: center
+
+# Active window
+window.active.title.bg: Flat
+window.active.title.bg.color: #191919
+window.active.label.bg: Parentrelative
+window.active.label.text.color: #191919
+
+window.active.handle.bg: Flat
+window.active.handle.bg.color: #ecedee
+window.active.grip.bg: Flat
+window.active.grip.bg.color: #ecedee
+
+window.active.button.unpressed.bg: Flat
+window.active.button.unpressed.bg.color: #191919
+window.active.button.unpressed.bg.border.color: #191919
+window.active.button.unpressed.image.color: #808080
+
+window.active.button.pressed.bg: Flat
+window.active.button.pressed.bg.color: #191919
+window.active.button.pressed.bg.border.color: #191919
+window.active.button.pressed.image.color: #808080
+
+window.active.button.disabled.bg: Flat
+window.active.button.disabled.bg.color: #191919
+window.active.button.disabled.bg.border.color: #191919
+window.active.button.disabled.image.color: #343434
+
+window.active.button.toggled.bg: Flat
+window.active.button.toggled.bg.color: #191919
+window.active.button.toggled.bg.border.color: #191919
+window.active.button.toggled.image.color: #696969
+
+window.active.button.hover.bg: Flat
+window.active.button.hover.bg.color: #191919
+window.active.button.hover.bg.border.color: #191919
+window.active.button.hover.image.color: #c0c0c0
+
+# Inactive windows
+window.inactive.title.bg: Flat
+window.inactive.title.bg.color: #191919
+window.inactive.label.bg: Parentrelative
+window.inactive.label.text.color: #191919
+
+window.inactive.handle.bg: Flat
+window.inactive.handle.bg.color: #ecedee
+window.inactive.grip.bg: Flat
+window.inactive.grip.bg.color: #ecedee
+
+window.inactive.button.unpressed.bg: Flat
+window.inactive.button.unpressed.bg.color: #191919
+window.inactive.button.unpressed.bg.border.color: #191919
+window.inactive.button.unpressed.image.color: #808080
+
+window.inactive.button.pressed.bg: Flat
+window.inactive.button.pressed.bg.color: #191919
+window.inactive.button.pressed.bg.border.color: #191919
+window.inactive.button.pressed.image.color: #808080
+
+window.inactive.button.disabled.bg: Flat
+window.inactive.button.disabled.bg.color: #191919
+window.inactive.button.disabled.bg.border.color: #191919
+window.inactive.button.disabled.image.color: #343434
+
+window.inactive.button.toggled.bg: Flat
+window.inactive.button.toggled.bg.color: #191919
+window.inactive.button.toggled.bg.border.color: #191919
+window.inactive.button.toggled.image.color: #696969
+
+window.inactive.button.hover.bg: Flat
+window.inactive.button.hover.bg.color: #191919
+window.inactive.button.hover.bg.border.color: #191919
+window.inactive.button.hover.image.color: #c0c0c0
+
+# Menus
+menu.title.bg: flat 
+menu.title.bg.color: #ad6060
+menu.title.text.color: #191919
+menu.title.text.justify: center
+
+menu.items.bg: Flat Solid
+menu.items.bg.color: #191919
+menu.items.text.color: #9C9C9C
+menu.items.disabled.text.color: #c0c0c0
+
+menu.items.active.bg: flat diagonal gradient
+menu.items.active.bg.color: #5b3030
+menu.items.active.bg.colorTo: #ad6060
+menu.items.active.text.color: #191919
+menu.items.active.disabled.text.color: #c0c0c0
+
+#separator
+menu.separator.color: #191919
+menu.separator.width: 1
+menu.separator.padding.width: 3
+menu.separator.padding.height: 3
+
+
+#osd
+osd.border.width: 1
+osd.border.color:  #222222
+
+osd.bg: flat border
+osd.bg.color: #191919
+osd.bg.border.color: #222222
+
+osd.label.bg: parentrelative
+
+osd.label.text.color: #c0c0c0
