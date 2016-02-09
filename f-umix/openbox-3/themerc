@@ -1,4 +1,5 @@
-#openbox themerc edited with obtheme
+#openbox themerc by fog
+
 menu.border.color: #212A3B
 menu.items.active.bg: Solid Flat
 menu.items.active.bg.color: #DEDEDE
