@@ -1,0 +1,82 @@
+#Rocket openbox themerc by fog
+
+menu.border.color: #363442
+#menu.items.active.bg: Solid Flat
+#menu.items.active.bg.color: #6E445C
+menu.items.active.bg: flat horizontal gradient
+menu.items.active.bg.color:#6E445C
+menu.items.active.bg.colorTo:#363442
+
+menu.items.active.text.color: #EEE6E5
+menu.items.bg: Flat
+menu.items.bg.color: #363442
+menu.items.bg.border.color: #363442
+menu.items.disabled.text.color: #EBE0DE
+menu.items.text.color: #EBE0DE
+menu.separator.color: #4D4D4D
+menu.title.bg: Flat
+menu.title.bg.color: #363442
+menu.title.bg.border.color: #363442
+menu.title.text.color: #7B7B7B
+menu.overlap: -2
+
+osd.bg: Solid Raised
+osd.bg.color: #363442
+osd.bg.border.color: #363442
+osd.border.color: #363442
+osd.hilight.bg: Solid Flat Border
+osd.hilight.bg.color: #363442
+osd.hilight.bg.border.color: #363442
+osd.label.text.color: #EBE0DE
+
+window.active.border.color: #363442
+window.active.button.disabled.image.color: #EBE0DE
+window.active.button.disabled.bg: ParentRelative Flat
+window.active.button.hover.bg: Solid Flat
+window.active.button.hover.bg.color: #363442
+window.active.button.hover.image.color: #7B7B7B
+window.active.button.pressed.bg: Solid Flat
+window.active.button.pressed.bg.color: #363442
+window.active.button.pressed.image.color: #7B7B7B
+window.active.button.toggled.hover.bg: Solid Flat
+window.active.button.toggled.hover.bg.color: #363442
+window.active.button.toggled.image.color: #EBE0DE
+window.active.button.toggled.unpressed.bg: ParentRelative Flat
+window.active.button.toggled.unpressed.bg.border.color: #363442
+window.active.button.unpressed.bg: ParentRelative Flat
+window.active.button.unpressed.image.color: #EBE0DE
+window.active.client.color: #363442
+window.active.label.bg: ParentRelative Flat
+window.active.label.text.color: #EBE0DE
+window.active.title.bg: Solid Flat
+window.active.title.bg.color: #363442
+window.active.title.bg.border.color: #363442
+window.active.title.separator.color: #363442
+
+window.client.padding.height: 1
+window.client.padding.width: 1
+window.handle.width: 0
+
+window.inactive.border.color: #363442
+window.inactive.button.disabled.bg: ParentRelative Flat
+window.inactive.button.disabled.image.color: #EBE0DE
+window.inactive.button.hover.bg: Solid Flat
+window.inactive.button.hover.bg.color: #363442
+window.inactive.button.hover.image.color: #F8F8F8
+window.inactive.button.pressed.bg: Solid Flat
+window.inactive.button.pressed.bg.color: #363442
+window.inactive.button.pressed.image.color: #7B7B7B
+window.inactive.button.toggled.hover.bg: Solid Flat
+window.inactive.button.toggled.hover.bg.color: #363442
+window.inactive.button.toggled.hover.image.color: #F8F8F8
+window.inactive.button.toggled.image.color: #7B7B7B
+window.inactive.button.toggled.unpressed.bg: ParentRelative Flat
+window.inactive.button.unpressed.bg: ParentRelative Flat
+window.inactive.button.unpressed.image.color: #7B7B7B
+window.inactive.client.color: #363442
+window.inactive.label.bg: ParentRelative Flat
+window.inactive.label.text.color: #7B7B7B
+window.inactive.title.bg: Solid Flat
+window.inactive.title.bg.color: #363442
+window.inactive.title.bg.border.color: #363442
+window.inactive.title.separator.color: #363442
