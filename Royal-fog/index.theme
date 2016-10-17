@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Royal-fog
+Comment=A modern flat theme based on Numix
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Royal-fog
+MetacityTheme=Royal-fog
+ButtonLayout=:minimize,maximize,close
